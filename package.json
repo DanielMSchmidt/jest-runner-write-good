@@ -1,0 +1,19 @@
+{
+  "name": "jest-runner-write-good",
+  "version": "0.0.1",
+  "description": "A jest runner that \"lints\" your text with [write good](https://github.com/btford/write-good) to check if your language seems nice and clean.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "git@github.com:DanielMSchmidt/jest-runner-write-good.git"
+  },
+  "keywords": [
+    "jest",
+    "documentation",
+    "writing"
+  ],
+  "author": "DanielMSchmidt <danielmschmidt92@gmail.com>",
+  "license": "MIT"
+}
